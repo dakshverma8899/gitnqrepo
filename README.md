@@ -1,2 +1,2 @@
-# gitnqrepo
+# quizzz
 Created with CodeSandbox
